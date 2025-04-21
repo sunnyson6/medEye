@@ -1,3 +1,3 @@
 # medEye
 
-# thesis requirement. idk
+thesis requirement. idk
